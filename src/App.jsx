@@ -119,10 +119,26 @@ function App() {
               </svg>
 
                 <div className="card-title">
-                Collaboration
+                Teamwork
                 </div>
                 <div className="text-description">  
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. A semper aenean id pen
+
+                </div>
+              </div>
+              <div className="card">
+              <svg width="37" height="37" viewBox="0 0 37 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M23.125 3.08331C17.9185 3.0855 13.4564 6.80585 12.5179 11.9271C16.9995 9.47471 22.6205 11.1197 25.0729 15.6012C26.5869 18.3679 26.5869 21.7153 25.0729 24.482C30.9332 23.4085 34.8137 17.7875 33.7402 11.9272C32.8014 6.80275 28.3347 3.08134 23.125 3.08331Z" fill="#FCE0EF"/>
+                <path d="M10.7917 33.9167C15.0489 33.9167 18.5 30.4655 18.5 26.2083C18.5 21.9511 15.0489 18.5 10.7917 18.5C6.53451 18.5 3.08337 21.9511 3.08337 26.2083C3.08337 30.4655 6.53451 33.9167 10.7917 33.9167Z" fill="#ED017F"/>
+                <path d="M16.9584 10.7917C12.2048 10.7922 8.22545 14.3955 7.75464 19.1257C11.664 17.446 16.1948 19.2536 17.8744 23.1629C18.7087 25.1046 18.7087 27.3037 17.8744 29.2454C22.9577 28.74 26.6689 24.2094 26.1634 19.1261C25.693 14.3951 21.7127 10.7913 16.9584 10.7917Z" fill="#F899CC"/>
+              </svg>
+
+                <div className="card-title">
+                Collaboration
+                </div>
+                <div className="text-description">         
                 Displaying the highest level of Integrity in the way we conduct our business
+
                 </div>
               </div>
               <div className="card">
@@ -135,8 +151,9 @@ function App() {
                 <div className="card-title">
                 Technology
                 </div>
-                <div className="text-description">         
+                <div className="text-description">
                 Harnessing the power of Technology to deliver better customer experience
+
                 </div>
               </div>
               <div className="card">
@@ -149,8 +166,9 @@ function App() {
                 <div className="card-title">
                 Corporate
                 </div>
-                <div className="text-description">
+                <div className="text-description">          
                 Setting the standard for the best Corporate Citizenship in the communities we work
+
                 </div>
               </div>
               <div className="card">
@@ -163,23 +181,18 @@ function App() {
                 <div className="card-title">
                 Digital
                 </div>
-                <div className="text-description">          
-              Setting the standard for the best Corporate Citizenship in the communities we work
+                <div className="text-description">
+               Setting the standard for the best Corporate Citizenship in the communities we work
+
                 </div>
               </div>
               <div className="card">
-              <svg width="37" height="37" viewBox="0 0 37 37" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M23.125 3.08331C17.9185 3.0855 13.4564 6.80585 12.5179 11.9271C16.9995 9.47471 22.6205 11.1197 25.0729 15.6012C26.5869 18.3679 26.5869 21.7153 25.0729 24.482C30.9332 23.4085 34.8137 17.7875 33.7402 11.9272C32.8014 6.80275 28.3347 3.08134 23.125 3.08331Z" fill="#FCE0EF"/>
-                <path d="M10.7917 33.9167C15.0489 33.9167 18.5 30.4655 18.5 26.2083C18.5 21.9511 15.0489 18.5 10.7917 18.5C6.53451 18.5 3.08337 21.9511 3.08337 26.2083C3.08337 30.4655 6.53451 33.9167 10.7917 33.9167Z" fill="#ED017F"/>
-                <path d="M16.9584 10.7917C12.2048 10.7922 8.22545 14.3955 7.75464 19.1257C11.664 17.446 16.1948 19.2536 17.8744 23.1629C18.7087 25.1046 18.7087 27.3037 17.8744 29.2454C22.9577 28.74 26.6689 24.2094 26.1634 19.1261C25.693 14.3951 21.7127 10.7913 16.9584 10.7917Z" fill="#F899CC"/>
+              <svg width="37" height="38" viewBox="0 0 37 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M18.4999 19.4625L5.39575 11.3688L18.4999 3.27502L31.6041 11.3688L18.4999 19.4625Z" fill="#F899CC"/>
+                <path d="M18.5 34.725V19.4625L31.6042 11.3688V26.6313L18.5 34.725Z" fill="#ED017F"/>
+                <path d="M18.4999 34.725L5.39575 26.6313V11.3688L18.4999 19.4625V34.725Z" fill="#FCE0EF"/>
               </svg>
 
-                <div className="card-title">
-                Integrity
-                </div>
-                <div className="text-description">
-                Displaying the highest level of Integrity in the way we conduct our business
-                </div>
               </div>
          </div>
        </section>
