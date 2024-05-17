@@ -312,42 +312,42 @@ function App() {
 
         <section className="section-6">
         <div className="section-5-heading">
-          <h1 className='heading1-h1-5'>Our Services</h1>
-           <h5 className='heading1-h5-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam bibendum eget morbi dignissim eu pharetra consequat montes, sagittis.</h5>
+          <h1 className='heading1-h1-5'>Our best results for the year</h1>
+           <h5 className='heading1-h5-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam, dapibus mattis vel feugiat erat tortor eleifend.</h5>
          </div>
 
          <div className="body-section-6">
-          <div className="card-section-6">
-            <h4 className='first section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+          <div className="card-section-6"> 
+            <h4 className='first section-6-contents'>57.6 bn</h4>
+            <h3 className='inside'>LOAN PORTFOLIO</h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>0.95%</h4>
+            <h3 className='inside'>CLASSIFIED LOAN PORTFOLIO</h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>388.5%</h4>
+            <h3 className='inside'>CLASSIFIED LOAN COVERAGE</h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>50.4 bn</h4>
+            <h3 className='inside'>DEPOSIT</h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>6.1 bn</h4>
+            <h3 className='inside'>SHAREHOLDERS EQUITY </h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>18.51% bn</h4>
+            <h3 className='inside'>CAPITAL ADEQUACY RATIO</h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>18.51% </h4>
+            <h3 className='inside'>MARKET CAPITALIZATION</h3>
           </div>
           <div className="card-section-6">
-            <h4 className='section-6-contents'>56.7 bn</h4>
-            <h3 className='inside'>Loan Portfolio</h3>
+            <h4 className='section-6-contents'>AAA</h4>
+            <h3 className='inside'>CREDIT RATING</h3>
           </div>
          </div>
         </section>
